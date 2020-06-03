@@ -1,0 +1,16 @@
+.boxed{
+  border: 5px solid purple;
+  line-height:1px;
+}
+.right{
+  text-align: right;
+}
+.left{
+  text-align: left;
+}
+.btnn{
+  border:100px;
+  color:orange;
+  text-align:center;
+  margin:10px 5px;
+}
